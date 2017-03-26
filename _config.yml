@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Evan Wildenhain blog
-email: evan.wildenhain@gmail.com
+title: TigerTrade Redux
+# email: evan.wildenhain@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  TigerTrade is a platform that is widely-used (mostly by graduate students) for buying and
+  selling goods. It last saw active development by Rodrigo Menezes ‘13, and is aging by the
+  day. The goal of our project is to revamp TigerApps by reimplementing it on a modern
+  stack with new features that would make it sufficiently appealing for undergraduates
+  to use.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CallOfTheWilde
-github_username:  ewilden
+# twitter_username: 
+# github_username:  
 
 # Build settings
 markdown: kramdown
