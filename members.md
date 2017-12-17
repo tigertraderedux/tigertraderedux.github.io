@@ -5,7 +5,7 @@ permalink: /members/
 ---
 
 Project leader:
-: Casey Chow (cc22@>)
+: Casey Chow (cc22@)
 
 <br>
 Other members:
