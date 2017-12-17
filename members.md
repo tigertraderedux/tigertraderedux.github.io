@@ -5,15 +5,15 @@ permalink: /members/
 ---
 
 Project leader:
-: Casey Chow (<cc22@princeton.edu>)
+: Casey Chow (cc22@>)
 
 <br>
 Other members:
-: Andrew Wonnacott (<ajw4@princeton.edu>)
-: Evan Wildenhain (<mew2@princeton.edu>)
-: Maryam Bahrani (<mbahrani@princeton.edu>)
-: Perry Cate (<ncate@princeton.edu>)  
+: Andrew Wonnacott (ajw4@)
+: Evan Wildenhain (mew2@)
+: Maryam Bahrani (mbahrani@)
+: Perry Cate (ncate@)  
 
 <br>
 Advising TA ("Project manager"):
-: Gautam Sharma (<gsharma@princeton.edu>)
+: Gautam Sharma (gsharma@)
